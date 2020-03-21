@@ -1,5 +1,7 @@
 # DRF Authentication
 
+- package for authectication user with django rest framework API
+
 ### Quickstart
 For installing django-drf-auth, just run this command in your shell
 
