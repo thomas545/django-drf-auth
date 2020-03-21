@@ -126,5 +126,10 @@ Headers: `Authorization: JWT YOUR_TOKEN_HERE`
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
+## PYPI
+
+[PYPI](https://pypi.org/project/django-drf-auth/0.1/)
+
+
 ## License
 MIT
