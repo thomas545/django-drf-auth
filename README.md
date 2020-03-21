@@ -13,8 +13,9 @@ pip install django-drf-auth
 ```
 INSTALLED_APPS = (
     # ...
-    'rest_framework',
+    
     'django.contrib.sites',
+    'rest_framework',
     'rest_auth',
     'allauth',
     'allauth.account',
