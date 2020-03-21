@@ -36,7 +36,7 @@ ACCOUNT_EMAIL_VERIFICATION = 'mandatory'
 ACCOUNT_EMAIL_REQUIRED = True
 
 ```
-FRONT_URL -> this is your url `` https://www.example.com ``
+FRONT_URL -> this is your url ( Example: `` https://www.example.com ``)
 
 
 ### URLS
